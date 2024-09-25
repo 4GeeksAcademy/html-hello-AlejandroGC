@@ -1,0 +1,36 @@
+body{
+    background-color: #bbb;
+    margin: auto;
+    width: 50%;
+    font-size: 20px;
+}
+.title{
+    text-align: center;
+}
+.post{
+    margin: 100px 0;
+}
+.post-head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 15px;
+}
+.post-title{
+    margin: 0;
+}
+.number{
+    text-align: end;
+    color:grey;
+}
+.post-photo{
+    margin: 15px 0;
+}
+img{
+    width: 100%;
+    object-fit: contain;
+}
+.post-foot{
+    margin: auto;
+    width: 95%;
+}
